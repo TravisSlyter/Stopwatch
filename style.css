@@ -9,7 +9,8 @@ body {
 
 .container{
 	color:white;
-	display:flex;
+  display:flex;
+  opacity: 0.9;
 }
 
 #timepiece{
